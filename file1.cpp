@@ -12,4 +12,10 @@ int main(){
     cout << endl;
     cout << endl;
 
-    
+    // Perulangan for untuk pencacah turun
+    for(cacah = 5; cacah > 0; cacah--){
+        cout << "Nilai Pencacah = " << cacah << " Selamat Datang!" << endl;
+    }
+    cout << "Nilai pencacah terakhir = " << cacah;
+}
+
